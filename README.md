@@ -126,6 +126,7 @@ Sponsors:
 
 Date | Sponsor | Comment
 --- | --- | ---
+2025-09-15 | @16Hexa | [HAP 网络授权保护系统：集成了强大安全防护与灵活授权管理的一站式解决方案](https://16hex.cc/)
 2022-04-03 | 任性 | MouClassInputInjection
 2023-04-22 | 任性 | Logitech
 2023-02-28 | - |
